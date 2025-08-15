@@ -10,4 +10,5 @@ readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
     "langextract>=1.0.7",
+    "spacy>=3.8.7",
 ]
