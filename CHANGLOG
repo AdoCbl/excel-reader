@@ -1,3 +1,9 @@
+v0.0.4
+- add regex_spacy hybrid, not working well though
+
+v0.0.3
+- add regex
+
 v0.0.2
 - add spacy trial
 
