@@ -9,6 +9,8 @@ description = "A simple Excel reader package"
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
+    "pip",
+    "ipykernel",
     "langextract>=1.0.7",
-    "spacy>=3.8.7",
+    "spacy==3.7.5",  # Must be <3.8.0 for en-core-web-sm compatibility
 ]
